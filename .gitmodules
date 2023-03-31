@@ -1,6 +1,6 @@
-[submodule "server"]
-	path = server
+[submodule "server-api"]
+	path = server-api
 	url = https://github.com/nkarl/wsu.cpts451.project.server
-[submodule "client"]
-	path = client
+[submodule "client-app"]
+	path = client-app
 	url = https://github.com/nkarl/wsu.cpts451.project.client
