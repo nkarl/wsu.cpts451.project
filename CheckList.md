@@ -1,3 +1,6 @@
+## Urgent Tasks
+- [[#^a2a676 | Load milestone #2 data]]
+
 ## Client
 - [x] Set up Svelte Client App
 - [ ] Build the skeleton UI
@@ -13,4 +16,5 @@
 ## Database
 - [x] Set up Docker postgres database
 - [x] Load milestone #1 data (sample)
-- [ ] Load milestone #2 data (real)
+- [ ] Load milestone #2 data (real) ^a2a676
+	- [ ] Write proposal for milestone #2
