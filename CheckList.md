@@ -6,7 +6,7 @@
 - [ ] Build the skeleton UI
 
 ## Server
-- [ ] Set up Express Server App
+- [x] Set up Express Server App
 - [ ] Set up GET actions
     - GET: all states
     - GET: all cities `on:click={getCities(state)}`

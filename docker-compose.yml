@@ -6,7 +6,7 @@ services:
     environment:
       #POSTGRES_DB: business_db
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: pass1234
+      POSTGRES_PASSWORD: none
     ports:
       - 5032:5032
     volumes:
