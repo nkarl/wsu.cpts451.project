@@ -4,11 +4,11 @@ services:
     container_name: cpts-451-database
     image: nkarl/cpts-451-postgres
     environment:
-      #POSTGRES_DB: business_db
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: none
+      POSTGRES_PASSWORD: pass1234
+      POSTGRES_DB: yelpdb
     ports:
-      - 5032:5032
+      - "5432:5432"
     volumes:
       - ./database:/database
     working_dir: '/database'
