@@ -3,11 +3,11 @@
 
 ## Client
 - [x] Set up Svelte Client App
-- [ ] Build the skeleton UI
+- [x] Build the skeleton UI
 
 ## Server
 - [x] Set up Express Server App
-- [ ] Set up GET actions
+- [x] Set up GET actions
     - GET: all states
     - GET: all cities `on:click={getCities(state)}`
     - GET: all business `on:click={getBusinesses(city)}`
@@ -16,5 +16,5 @@
 ## Database
 - [x] Set up Docker postgres database
 - [x] Load milestone #1 data (sample)
-- [ ] Load milestone #2 data (real) ^a2a676
-	- [ ] Write proposal for milestone #2
+- [x] Load milestone #2 data (real) ^a2a676
+	- [x] Write proposal for milestone #2
